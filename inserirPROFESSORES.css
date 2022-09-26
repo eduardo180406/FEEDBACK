@@ -1,0 +1,15 @@
+div{
+    text-align: center;
+    border : 2px solid blue;
+    flex-flow: nowrap ;
+    justify-self: auto;
+    align-items: auto;
+    background: #eeeeee;
+    margin: 2;
+    width: 50%;
+    height: 50%VW;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 100px ;
+    text-align: left;
+    position: relative; 
+}
